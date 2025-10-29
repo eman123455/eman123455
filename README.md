@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eman</h1>
-<h3 align="center">Mobile App developer from Egypt</h3>
+<h3 align="center">Flutter  developer from Egypt</h3>
 
 - 🌱 I’m currently learning **Flutter Development**
 
